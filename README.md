@@ -97,3 +97,11 @@ pip install requests requests_oauthlib
   }
 }
 ```
+
+<h2>実行方法</h2>
+
+以下のコマンドを実行でOKです。
+
+```
+python run.py
+```
